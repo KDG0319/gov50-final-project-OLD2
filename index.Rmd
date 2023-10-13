@@ -1,6 +1,6 @@
 ---
 title: "Gov 50 Final Project"
-author: "Your Name Here"
+author: Kate Delval Gonzalez
 description: "My final project"
 output:
   distill::distill_article:
@@ -11,4 +11,13 @@ output:
 
 ## Project thoughts
 
+Milestone #1 Ideas: 
+
 I am interested in exploring data related to...
+
+1. My first area of interest would be exploring the Latine population in the U.S and how they interact with higher education. In particular, I would be interested in exploring what types of institutions they attend, where, and other relating factors .
+
+2. Another option I would be interested in, is the exploration of data relating to music popularity during different times of the year. I would like to look at types/genres of songs that gain popularity depending on the time of year. 
+
+
+## Project Proposal
