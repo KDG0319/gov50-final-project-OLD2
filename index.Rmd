@@ -9,7 +9,7 @@ output:
 
 
 
-## Project thoughts
+## Project Thoughts
 
 Milestone #1 Ideas: 
 
@@ -21,3 +21,12 @@ I am interested in exploring data related to...
 
 
 ## Project Proposal
+
+Milestone #2
+
+The data set for this project was taken from a previous analysis completed on FiveThirtyEight by Aaron Bycoffe, Ella Koeza, David Wasserman, and Julia Wolfe. Their project, "The Atlas of Redistricting", specifically looked at the redrawing of U.S congressional maps to see the shifts that happen in partisan and racial makeups. The data is set for 2010 and contains factors such as State voting populations based on race, the Cook Partisan Voting Index, the number of districts in the state, and more. 
+
+Does racial composition in a district impact the Cook Partisan Voting Index (PVI) -- and how does this Index vary across districts with different dominant racial groups? In my analysis I will be focusing on the "Majority Minority Map", to better focus on racial minority voting tendencies. Since race can influence someone's voting tendencies due to different approaches parties take on racial topics, I hypothesize that the "Majority Minority" map will show how districts with different dominant racial groups can lean towards different parties -- this could be explained by the different challenges they face in the U.S and how these challenges influence their voting patterns. In this case, my explanatory variable will be race -- it will mostly be compared between individuals of "minority" races in the United States (Black, Hispanic, Asian, Native American, Pacific Islander, and Other). Each racial variable is measured by the percentage of the districts' 2010 voting-age population, and to compare them, the data can be filtered to focus on a particular racial group. On the other hand, my outcome variable will be the districts' leaning toward one party, measured through the PVI -- this will also be filtered depending on race. To support my hypothesis I would have to see different political leanings across racial groups. However, if they all appear to lean towards the same party, then my hypothesis would be fully disproved. 
+
+
+
